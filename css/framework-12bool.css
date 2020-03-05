@@ -1,6 +1,6 @@
 /* Container */
 .container {
-  width: 1170px;
+  width: 1200px;
   max-width: 100%;
   margin: 0 auto;
 }
@@ -97,7 +97,7 @@
 
 
 /* colonne */
-.col-1 {
+/* .col-1 {
   width: calc(100% / 12);
 }
 .col-2 {
@@ -132,9 +132,9 @@
 }
 .col-12 {
   width: 100%;
-}
+} */
 /* OFFSET */
-.offset-1 {
+/* .offset-1 {
   margin-left: calc(100% / 12);
 }
 .offset-2 {
@@ -166,7 +166,7 @@
 }
 .offset-11 {
   margin-left: calc((100% / 12) * 11);
-}
+} */
 /* small devices */
 @media all and (max-width: 768px) {
   .col-xs-1 {
